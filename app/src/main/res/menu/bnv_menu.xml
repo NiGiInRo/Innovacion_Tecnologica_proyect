@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHomeFragment"
+        android:title="Inicio"
+        android:icon="@drawable/ic_child_care_black_24dp"
+        >
+    </item>
+    <item
+        android:id="@+id/navTwoFragment"
+        android:title="Dos"
+        android:icon="@drawable/ic_info_black_24dp"
+        >
+    </item>
+    <item
+        android:id="@+id/navOtherFragment"
+        android:title="Otro"
+        android:icon="@drawable/ic_filter_hdr_black_24dp"
+        >
+    </item>
+</menu>

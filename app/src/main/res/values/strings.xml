@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projecto innovacion Tecnologica</string>
+
+    <string name="inicio_frag_tv_que_es">¿Qué es la Realidad Aumentada?</string>
+    <string name="inicio_frag_tv_que_es_resp">es el término que se usa para describir al conjunto de tecnologías que permiten que un usuario visualice parte del mundo real a través de un dispositivo tecnológico con información gráfica añadida por este. El dispositivo, o conjunto de dispositivos, añaden información virtual a la información física ya existente, es decir, una parte virtual aparece en la realidad. De esta manera los elementos físicos tangibles se combinan con elementos virtuales, creando así una realidad aumentada en tiempo real.</string>
+    <string name="inicio_frag_tv_por_que">Tecnología</string>
+    <string name="inicio_frag_tv_por_que_resp">Los dispositivos de realidad aumentada normalmente constan de unos cascos, o gafas, y un sistema de visualización para mostrar al usuario la información virtual que se añade a la real. Los auriculares, o headset, llevan incorporado sistemas de GPS necesarios para poder localizar con precisión la situación del usuario.</string>
+    <string name="inicio_frag_tv_info">Información de la PlatziConf México 2019</string>
+    <string name="inicio_frag_tv_info_resp">
+        \u0009 &#8226; Es un evento exclusivo para estudiantes con suscripción activa en Platzi.\n
+        \u0009 &#8226; (Sí esto te apasiona y no tienes una suscripción activa, adquiere ya mismo tu Plan Expert).\n
+        \u0009 &#8226; Fecha: Sábado 3 de Agosto de 2019.\n
+        \u0009 &#8226; Lugar: Centro Cultural Roberto Cantoral.\n
+        \u0009 &#8226; Dirección: Puente Xoco s/n, Xoco, 03330 Ciudad de México, CDMX.</string>
+</resources>
